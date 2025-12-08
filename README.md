@@ -70,7 +70,7 @@ For this assignment, you will not be required to catch `Exceptions` that might b
 Because Java has an extensive web presence, you may be able to find code on the web related to this and other assignments. Resist the temptation to copy from these sources! Code taken from the web will not necessarily meet the requirements of this assignment, even if it solves the same general problem. Furthermore, representing someone else's work as your own is a violation of the Honor Code. (That said, looking at related examples for ideas and general concepts is fine, as long as you cite your sources and then proceed to write the program on your own.)
 
 ## Grading
-The file ``checklist.md`` shows the items on which your program will be graded.  As before, you are asked to enter your own assessment of these points and submit it with the rest of your work.  
+The file ``checklist.md`` shows the items on which your program will be graded.  As before, you are asked to enter your own assessment of these points and submit it with the rest of your work.
 
 _Some advice:  Start small, slow, and simple - S^4! First priority is to get a basic program running; you can add and debug features once you have the framework established. Use the levels in `rubric.md` to help you figure out where to start. This generally works out better than trying to write everything first and then debugging all at once._
 

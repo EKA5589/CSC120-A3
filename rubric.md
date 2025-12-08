@@ -24,13 +24,13 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 *YES* 1 pt: Uses a canned response when no mirror words detected
 
-_____ 1 pt: Detects the requested set of mirror words (at minimum)
+*YES* 1 pt: Detects the requested set of mirror words (at minimum)
 
-_____ 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
+*YES* 1 pt: Replaces simple mirror words appropriately (unpunctuated, lowercase)
 
 ### Level 3 (3 pts)
 
-_____ 1 pt: Makes all appropriate mirror replacements
+*YES* 1 pt: Makes all appropriate mirror replacements
 
 *YES* 1 pt: Stores transcript of the conversation in an array
 
